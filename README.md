@@ -1,29 +1,8 @@
 -----
 
-*Feel free to give a star to my new repo, great thanks* [Awesome-FinTech](https://github.com/litaotao/Awesome-FinTech)
-
-----
-
-# `Hi, there`
-
-I'm so glad that this repo still draws you guys' attention until today. but actually I won't spend any time on it and I've got a much better way to draw dynamic plots in ipython notebook, and I've just post a blog about how to make it in notebooks (including source code and demo notebook).
-
-which looks like bellow:
-
-
-Thank you guys again, and if possible, please don't cancel your stars, ha~ha, any problems and questions when using the new method will get answered as long as you put it under that post.
-
-thanks again,
-taotao~
-
------
-
 
 
 [![build status](https://api.travis-ci.org/litaotao/IPython-Dashboard.svg?branch=master)](https://travis-ci.org/litaotao/IPython-Dashboard) [![Documentation Status](https://readthedocs.org/projects/ipython-dashboard/badge/?version=latest)](http://ipython-dashboard.readthedocs.org/en/latest)   [![coverage](https://coveralls.io/repos/litaotao/IPython-Dashboard/badge.svg?branche=master&service=github)](https://coveralls.io/r/litaotao/IPython-Dashboard)   [![PyPI Version](http://img.shields.io/pypi/v/IPython-Dashboard.svg)](https://pypi.python.org/pypi/IPython-Dashboard)  [![Downloads](https://img.shields.io/pypi/dm/ipython-dashboard.svg)](https://pypi.python.org/pypi/IPython-Dashboard)
-
-
-## ***Inspired by [IPython](http://ipython.org/), built with love***
 
 
 
