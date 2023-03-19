@@ -10,10 +10,6 @@ I'm so glad that this repo still draws you guys' attention until today. but actu
 
 which looks like bellow:
 
-![](http://litaotao.github.io/images/python_dynamic_charts1.png)
-
-Please check it here: http://litaotao.github.io/dynamic-charts-matplotlib-alternative-ipython-notebook-python-drawing-js
-
 
 Thank you guys again, and if possible, please don't cancel your stars, ha~ha, any problems and questions when using the new method will get answered as long as you put it under that post.
 
